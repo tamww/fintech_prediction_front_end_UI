@@ -1,0 +1,36 @@
+[
+    {
+        "key": "1",
+        "period": "2 months",
+        "success_rate": "0"
+    },
+    {
+        "key": "2",
+        "period": "4 months",
+        "success_rate": "0"
+    },
+    {
+        "key": "3",
+        "period": "6 months",
+        "success_rate": "0"
+    },
+    {
+        "key": "4",
+        "period": "8 months",
+        "success_rate": "0"
+    },
+    {
+        "key": "5",
+        "period": "10 months",
+        "success_rate": "0"
+    },
+    {
+        "key": "6",
+        "period": "12 months",
+        "success_rate": "0"
+    }
+
+]
+
+
+

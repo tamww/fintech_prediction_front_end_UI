@@ -1,0 +1,154 @@
+.logoimage{
+    position:absolute;
+    vertical-align: middle;
+    align-items: center;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: -20px;
+    z-index: 4;
+    width: auto;
+}
+.header{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/*left topbar style*/
+.topbarLeft{
+    position: absolute;
+    flex: none;
+    margin-left: 120px;
+    display: inline-flex;
+    width: 15vw;
+    z-index: 2;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+    height: 60px;    
+}
+
+.Item{
+    display: inline-block;
+    height: 60px;
+    width: fit-content;
+    z-index: 5;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+.itemtext{
+    line-height: 60px;
+    color:black;
+    font-size:small;
+    overflow:auto;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    font-weight:bold;
+}
+
+
+/*right top bar style*/
+.topRight-holder{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    vertical-align: middle;
+}
+
+.topbarRight{
+    position: absolute;
+    margin-right: -50px;
+    height: 60px;
+    z-index: 7;
+    width: 70vw;
+    display: flex;
+    justify-content:flex-end; 
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+
+.Button{
+    display: inline-flexbox;
+    height: 40px;
+    width: max-content;
+    align-items: center;
+}
+
+.Button:hover{
+    border-color:#18A0FB;
+    color: white;
+}
+
+.buttontext{
+    line-height: 30px;
+    font-size:small;
+    color:#18A0FB;
+}
+
+/*helper search*/
+.searchbox{
+    margin-left: 1vw;
+    height: 40px;
+    border-radius: 25px;
+    width: 250px;
+    display: inline-flexbox;
+}
+
+.notification{
+    height: 60px;
+    font-size: larger;
+    color: gray;
+    display: inline-flexbox;
+    width: 4vw;
+}
+
+.notification:hover{
+    color: chocolate;
+}
+
+.MyAcc{
+    height: 40px;
+    background-color: #18A0FB;
+    color: white;
+    border-radius: 15px;
+    line-height: 30px;
+    font-size:small;
+    display: inline-flexbox;
+
+}
+
+.buttonACtext:hover{
+    color: #18A0FB;
+}
+
+.Exit{
+    display: flex;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    color: gray;
+    display: inline-flexbox;
+    width: 2vw;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    
+}
+
+.Exit:hover{
+    color: red;
+}
+
+/***overflow handler***/
+.SubMenu{
+    position: absolute;
+    flex-direction: column;
+    width:max-content;
+    z-index: 10;
+    margin-top: 800px;
+    align-items: center;
+}
+

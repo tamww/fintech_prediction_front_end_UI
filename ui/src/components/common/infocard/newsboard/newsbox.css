@@ -1,0 +1,94 @@
+.main-body {
+    display: flex;
+    border-style:groove;
+    flex-direction: column;
+    max-height: 50vh;
+    overflow-x:hidden;
+    overflow-y: scroll;
+    width: 100%;
+  }
+  
+  .body {
+    display: flex;
+    flex-direction: column;
+    margin-top: auto; 
+  }
+  
+  .inner-body {
+    display: flex;
+    flex-direction: row;
+    word-wrap: break-word;
+  }
+  
+  .tweet-body {
+    display: flex;
+    flex-direction: column;
+    width: 566px;
+  }
+  
+  .picture {
+    margin-left: 24px;
+    margin-top: -10px;
+    width: 10%;
+    object-fit:scale-down;
+  }
+  
+  .name {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    margin-top: 17px;
+    max-width: 400px;
+    width: max-content;
+    height: 17px;
+    font-family: HelveticaNeue;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.6px;
+  }
+  
+  .handle {
+    margin-left: 10px;
+    margin-top: 19px;
+    min-width: 128px;
+    font-family: HelveticaNeue;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.6px;
+  }
+  
+  .tweet {
+    margin-left: 15px;
+    margin-top: 7px;
+    width: 450px;
+    height: max-content;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;   
+    white-space: pre-wrap;
+  }
+  .date{
+    margin-left: 15px;
+    margin-top: 7px;
+    width: 450px;
+    height: max-content;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    white-space: pre-wrap;
+  }
+
+  .dividertweet{
+      height: 0.1px;
+      background-color: "#000";
+  }

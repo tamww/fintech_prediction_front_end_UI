@@ -1,0 +1,217 @@
+.companyinfopager{
+    height: auto;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+    padding: 5px 10px 0px 5px;
+    margin-top: -5px;
+    overflow-y: hidden;
+}
+
+/*search bar*/
+.searchbar_companyinfo{
+    position: relative;
+    height: 5%;
+    z-index: 2;
+    width: 100%;
+    align-content: center;
+    vertical-align: text-top;
+}
+
+.SearchCompany_companyinfo{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+.selector_companyinfo{
+    width: 800px;
+    display: flexbox;
+}
+
+.searctitle_companyinfo{
+    display: inline;
+    vertical-align:middle;
+}
+
+
+/*title bar*/
+.titlebar_companyinfo{
+    position: relative;
+    height: 10vh;
+    z-index: 2;
+    width: 100%;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.titlebar_left_companyinfo{
+    display:"flex";
+    flex-direction:"row";
+}
+
+.cardholder_companyinfo{
+
+}
+.nameCard_companyinfo{
+    width:100%;
+    margin-top: 40px;
+    margin-left: 20px;
+    z-index: 4;
+    word-wrap:break-word;
+
+}
+
+.text_nameCard_companyinfo{
+    align-self: center;
+    vertical-align: middle;
+    justify-self: center;
+    z-index: 4;
+
+}
+
+.CompanyLogo_companyinfo{
+    display: flex;
+    float: left;
+    z-index: 5;
+    margin-left: 5%;
+    max-height: 9vh;
+    max-width: 20%;
+    object-fit: scale-down;
+    vertical-align: middle;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    justify-content: center;
+    align-items:center;
+}
+
+.titlebar_extra_function_companyinfo{
+    display: inline-flexbox;
+    float: right;
+    flex-direction: row;
+    align-self: center;
+}
+
+.button_companyinfo{
+    background-color: orange;
+    border-color: orange;
+    width: 13vw;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -0.5em 1em rgba(255, 255, 255, 0.363),
+    2px 2px 2px 1px rgba(66, 66, 66, 0.2);
+
+}
+.button_companyinfo:hover{
+    background-color:white;
+    border-color: orange;
+    color:orange;
+}
+
+.button_companyinfo::selection:checked{
+    background-color: orange;
+    border-color: orange;
+}
+
+.suggestionC{
+    box-shadow: 
+    inset 0 -1em 1em rgba(255, 255, 255, 0.363),
+    2px 2px 2px 1px rgba(66, 66, 66, 0.2);
+}
+
+.suggestionrate{
+    box-shadow: 
+        inset 0 -1em 1em rgba(255, 255, 255, 0.363),
+            2px 2px 2px 1px rgba(66, 66, 66, 0.2);
+}
+
+/*main content */
+.contentbox_companyinfo{
+    height: auto;
+    z-index: 2;
+}
+
+.CompanyInfoBox_companyinfo{
+    font-size: x-small;
+    padding: 2px;
+    box-shadow: 10px 10px 2px 1px rgba(131, 131, 131, 0.2);
+}
+
+.firstRow_graph_companyinfo{
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+
+.secondRow_graph_companyinfo{
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 10px;
+}
+
+.secondRow_text_companyinfo{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 10px;
+    width: 90%;
+}
+
+.Important_features2_companyinfo{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    width: 100%;
+    max-height: 90%;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -0.5em 1em rgba(255, 255, 255, 0.363),
+    2px 2px 2px 1px rgba(66, 66, 66, 0.2);
+    margin-top: 2%;
+}
+
+.cardText_companyinfo{
+    font-size:xx-large;
+    text-align: center;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#4c79b3;
+}
+
+/*bottom information bar*/
+
+.bottombar_companyinfo{
+    height: 10vh;
+    z-index: 2;
+}
+
+.StatusCard_companyinfo{
+    background-color:rgba(42, 46, 67, 1);
+    border-color: rgba(42, 46, 67, 1);
+    width: 90%;
+    height: 83%;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -0.5em 1em rgba(255, 255, 255, 0.363),
+    2px 2px 2px 1px rgba(66, 66, 66, 0.2);
+    margin-top: 2%;
+}
+
+.Important_features_companyinfo{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    width: 90%;
+    max-height: 83%;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -0.5em 1em rgba(255, 255, 255, 0.363),
+    2px 2px 2px 1px rgba(66, 66, 66, 0.2);
+    margin-top: 2%;
+
+}

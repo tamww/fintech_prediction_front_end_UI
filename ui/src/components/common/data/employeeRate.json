@@ -1,0 +1,78 @@
+[
+    {
+        "key": "0",
+        "employee": "1-10",
+        "counts": "2011",
+        "success": "376",
+        "success_rate": "0.186971656",
+        "fill": "#8884d8"
+    },
+    {
+        "key": "1",
+        "employee": "11-50",
+        "counts": "1849",
+        "success": "516",
+        "success_rate": "0.279069767",
+        "fill": "#8884d8"
+    },
+    {
+        "key": "2",
+        "employee": "51-100",
+        "counts": "632",
+        "success": "281",
+        "success_rate": "0.444620253",
+        "fill": "#8884d8"
+    },
+    {
+        "key": "3",
+        "employee": "101-250",
+        "counts": "684",
+        "success": "352",
+        "success_rate": "0.514619883",
+        "fill": "#8884d8"
+    },
+    {
+        "key": "4",
+        "employee": "251-500",
+        "counts": "429",
+        "success": "266",
+        "success_rate": "0.62004662",
+        "fill": "#8884d8"
+
+    },
+    {
+        "key": "5",
+        "employee": "501-1000",
+        "counts": "364",
+        "success": "242",
+        "success_rate": "0.664835165"
+    },
+    {
+        "key": "6",
+        "employee": "1001-5000",
+        "counts": "431",
+        "success": "330",
+        "success_rate": "0.765661253"
+    },
+    {
+        "key": "7",
+        "employee": "5001-10000",
+        "counts": "142",
+        "success": "103",
+        "success_rate": "0.725352113"
+    },
+    {
+        "key": "8",
+        "employee": "10000+",
+        "counts": "234",
+        "success": "200",
+        "success_rate": "0.854700855"
+    },
+    {
+        "key": "9",
+        "employee": "unknown",
+        "counts": "867",
+        "success": "300",
+        "success_rate": "0.346020761"
+    }
+]

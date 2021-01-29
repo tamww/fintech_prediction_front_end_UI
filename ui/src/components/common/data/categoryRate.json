@@ -1,0 +1,131 @@
+[
+    {
+        "key": "0",
+        "category_groups_list": "Financial Services",
+        "counts": "2203",
+        "success": "905",
+        "success_rate": "0.41080345"
+    },
+    {
+        "key": "1",
+        "category_groups_list": "Financial Services,Lending and Investments",
+        "counts": "1826",
+        "success": "1028",
+        "success_rate": "0.56297919"
+    },
+    {
+        "key": "2",
+        "category_groups_list": "Advertising,Sales and Marketing",
+        "counts": "883",
+        "success": "97",
+        "success_rate": "0.109852775"
+    },
+    {
+        "key": "3",
+        "category_groups_list": "Financial Services,Real Estate",
+        "counts": "719",
+        "success": "531",
+        "success_rate": "0.73852573"
+    },
+    {
+        "key": "4",
+        "category_groups_list": "Sales and Marketing",
+        "counts": "311",
+        "success": "60",
+        "success_rate": "0.192926045"
+    },
+    {
+        "key": "5",
+        "category_groups_list": "Financial Services,Professional Services",
+        "counts": "290",
+        "success": "85",
+        "success_rate": "0.293103448"
+    },
+    {
+        "key": "6",
+        "category_groups_list": "Advertising,Internet Services,Sales and Marketing",
+        "counts": "264",
+        "success": "38",
+        "success_rate": "0.143939394"
+    },
+    {
+        "key": "7",
+        "category_groups_list": "Information Technology,Sales and Marketing,Software",
+        "counts": "214",
+        "success": "28",
+        "success_rate": "0.130841121"
+    },
+    {
+        "key": "8",
+        "category_groups_list": "Commerce and Shopping,Financial Services",
+        "counts": "197",
+        "success": "54",
+        "success_rate": "0.274111675"
+    },
+    {
+        "key": "9",
+        "category_groups_list": "Financial Services,Payments",
+        "counts": "143",
+        "success": "33",
+        "success_rate": "0.230769231"
+    },
+    {
+        "key": "10",
+        "category_groups_list": "Financial Services,Payments,Software",
+        "counts": "141",
+        "success": "28",
+        "success_rate": "0.19858156"
+    },
+    {
+        "key": "11",
+        "category_groups_list": "Financial Services,Mobile,Payments,Software",
+        "counts": "134",
+        "success": "33",
+        "success_rate": "0.246268657"
+    },
+    {
+        "key": "12",
+        "category_groups_list": "Internet Services,Sales and Marketing",
+        "counts": "114",
+        "success": "5",
+        "success_rate": "0.043859649"
+    },
+    {
+        "key": "13",
+        "category_groups_list": "Sales and Marketing,Software",
+        "counts": "95",
+        "success": "14",
+        "success_rate": "0.147368421"
+    },
+    {
+        "key": "14",
+        "category_groups_list": "Financial Services,Lending and Investments,Payments",
+        "counts": "67",
+        "success": "22",
+        "success_rate": "0.328358209"
+    },
+    {
+        "key": "15",
+        "category_groups_list": "Administrative Services,Financial Services",
+        "counts": "21",
+        "success": "2",
+        "success_rate": "0.095238095"
+    },
+    {
+        "key": "16",
+        "category_groups_list": "Financial Services,Payments,Privacy and Security",
+        "counts": "10",
+        "success": "2",
+        "success_rate": "0.2"
+    },
+    {
+        "key": "17",
+        "category_groups_list": "Apps,Sales and Marketing,Software",
+        "counts": "7",
+        "success": "1",
+        "success_rate": "0.142857143"
+    }
+]
+
+
+
