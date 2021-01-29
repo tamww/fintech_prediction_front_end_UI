@@ -76,4 +76,4 @@ If you see the message "Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ### General Remarks
 - Author: Tam Wui Wo, Jacky
 - HKUST Team3 Datuminers
-- For TEMG4952A Special Project for UBS only.
+- For TEMG4952A Special Project only.
